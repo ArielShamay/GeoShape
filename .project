@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Ex3</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/exe_Ex3/Ex3.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/Ex3.java</locationURI>
+		</link>
+		<link>
+			<name>src/exe_Ex3/MyMap2D.java</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/OneDrive/%D7%A9%D7%95%D7%9C%D7%97%D7%9F%20%D7%94%D7%A2%D7%91%D7%95%D7%93%D7%94/MyMap2D.java</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
